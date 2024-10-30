@@ -7,6 +7,7 @@ This repository contains data about GitHub users in Paris with over 200 follower
 1. users.csv: Contains information about 385 GitHub users in Paris with over 200 followers
 2. repositories.csv: Contains information about 37649 public repositories from these users
 3. gitscrap.py: Python script used to collect this data
+4. analysis.py: Python script to analyse data. To be run in google colab
 
 ## Data Collection
 - Data Collection Explanation: The data was scraped using the GitHub API, targeting users in Paris with over 200 followers, and gathering details on their 500 most recent repositories. Date of collection: 2024-10-30.

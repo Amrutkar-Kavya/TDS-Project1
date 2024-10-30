@@ -9,11 +9,7 @@ This repository contains data about GitHub users in Paris with over 200 follower
 3. gitscrap.py: Python script used to collect this data
 
 ## Data Collection
-- Data Collection Explanation
-- Data collected using GitHub API
-- Date of collection: 2024-10-30
-- Only included users with 200+ followers
-- Up to 500 most recently pushed repositories per user
+- Data Collection Explanation: The data was scraped using the GitHub API, targeting users in Paris with over 200 followers, and gathering details on their 500 most recent repositories. Date of collection: 2024-10-30.
   
 - Interesting Finding: Hugging Face and other prominent developers from Paris have repositories with tens of thousands of stars, underscoring Paris as a hub for influential AI and open-source projects.
 
